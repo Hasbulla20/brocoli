@@ -8,11 +8,6 @@ package mx.itson.brocoli.negocio;
  *
  * @author alumnog
  */
-public class Operacion {
-    //holaestoesun cambioL
+class valor {
     
-    String[] elementos = valor.split("");
-    
-    
-  
 }
